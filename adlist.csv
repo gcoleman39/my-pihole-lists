@@ -1,2 +1,3 @@
 id,address,enabled,date_added,date_modified,comment,date_updated
-1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1585426667,1593348722,Default,1609016914
+1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1585426667,1593348722,Default,1612713787
+2,https://ewpratten.retrylife.ca/youtube_ad_blocklist/hosts.ipv4.txt,1,1612713773,1612713773,"youtube ad blocking",1612713788
