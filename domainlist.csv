@@ -32,3 +32,5 @@ id,type,domain,enabled,date_added,date_modified,comment
 54,1,www.nwsvr1.com,1,1612717864,1612717864," Wansview"
 55,0,app-measurement.com,1,1612786606,1612786606,"Added from Query Log"
 56,0,api.leanplum.com,1,1612786612,1612786612,"Added from Query Log"
+57,1,www.chong.com,1,1612841347,1612841347,
+58,1,chong.com,1,1612841426,1612841426,fff
